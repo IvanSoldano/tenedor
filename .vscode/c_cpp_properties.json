@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/external/raylib/include/",
+                "R:/Users/Usuario/Downloads/w64devkit/include/**",
+                "R:/Users/Usuario/Downloads/w64devkit/lib/gcc/x86_64-w64-mingw32/*/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "",
+            "compilerPath": "R:/Users/Usuario/Downloads/w64devkit/bin/gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
